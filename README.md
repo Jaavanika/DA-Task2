@@ -1,4 +1,12 @@
 # DA-Task2
+
+Dash Board: Link: https://public.tableau.com/views/Book1_17386692702740/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+![image](https://github.com/user-attachments/assets/f08579f8-91d0-45c8-bf8f-9da7ca5d4df5)
+
+![Dashboard 1](https://github.com/user-attachments/assets/11922290-5b5a-4814-8677-ce9b3b8d2ba4)
+
+
 Chart 1: Sales vs Profit by Category and Sub-Category
    
 Goal: Show how sales and profit vary by product types.
